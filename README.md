@@ -25,7 +25,7 @@ The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.de
     - *Software:* Full stack website application for processing, storage and hosting; gemini-1.5-pro large vision language model for handling queries requests. In the future, AI agents for executing different tasks and computer vision for face detection is planning to be added.
 
 - **APSAP Automation Application** (Education, Automation)[2023]<br>
-This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research).
+This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research). 
 
 ## Contact Me
 - **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
