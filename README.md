@@ -7,10 +7,10 @@
 
 ## Education
 - **Duke University** [Aug 2024 - Present] <br>
-  Master of Engineering in Artificial Intelligence and Product Innovation
+  Master of Engineering in Artificial Intelligence and Product Innovation [website link](https://masters.pratt.duke.edu/ai/degree/)
  
 - **The University of Hong Kong** [Sep 2019 - Jul 2024] <br>
-  Bachelor of Science in Actuarial Science & Computer Science 
+  Bachelor of Science in Actuarial Science & Computer Science [website link](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-actuarial-science)
 
 ## Skills
 - **Programming Languages:** Python (main), HTML, CSS, JavaScript, SQL, Java, C++
@@ -20,7 +20,7 @@
 
 ## Projects
 - **Flashback** (AI tool, Hackathon0[2024] <br>
-The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on devpost: [https://devpost.com/software/flashback-o0jzlk](https://devpost.com/software/flashback-o0jzlk). <br><br> Key technologies use:<br>
+The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk). <br><br> Key technologies use:<br>
     - *Hardware:* Raspberry Pi with camera and microphone for information collection (sensors). 
     - *Software:* Full stack website application for processing, storage and hosting; gemini-1.5-pro large vision language model for handling queries requests. In the future, AI agents for executing different tasks and computer vision for face detection is planning to be added.
 
