@@ -7,10 +7,10 @@
 
 ## Education
 - **Duke University** [Aug 2024 - Present] <br>
-  Master of Engineering in Artificial Intelligence and Product Innovation [website link](https://masters.pratt.duke.edu/ai/degree/)
+  Master of Engineering in Artificial Intelligence and Product Innovation [link](https://masters.pratt.duke.edu/ai/degree/)
  
 - **The University of Hong Kong** [Sep 2019 - Jul 2024] <br>
-  Bachelor of Science in Actuarial Science & Computer Science [website link](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-actuarial-science)
+  Bachelor of Science in Actuarial Science & Computer Science [link](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-actuarial-science)
 
 ## Skills
 - **Programming Languages:** Python (main), HTML, CSS, JavaScript, SQL, Java, C++
