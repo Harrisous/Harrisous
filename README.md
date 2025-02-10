@@ -19,7 +19,9 @@
 - **Tools:** VS Code, Git, Jupyter Notebooks
 
 ## Projects
-- **Flashback** (AI tool, Hackathon0[2024] <br>
+- **Al Anti Money Laundering for Digital Wallets** (Innovate.DTCC: AI-Powered Hackathon)[Feb 2025] (Academic Institution Team Award)<br>
+
+- **Flashback** (Duke AI Hackathon)[Nov 2024] (First Rank in AI Tool Track, Top 5 in All Tracks)<br>
 The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk). <br><br> Key technologies use:<br>
     - *Hardware:* Raspberry Pi with camera and microphone for information collection (sensors). 
     - *Software:* Full stack website application for processing, storage and hosting; gemini-1.5-pro large vision language model for handling queries requests. In the future, AI agents for executing different tasks and computer vision for face detection is planning to be added.
@@ -29,7 +31,6 @@ This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢
 
 ## Contact Me
 - **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
-- **Phone:** [+1(919)685-5555](tel:+19196855555)
 - **LinkedIn:** [www.linkedin.com/in/haochen-harry-li](www.linkedin.com/in/haochen-harry-li)
 - **GitHub:** [https://github.com/Harrisous](https://github.com/Harrisous)
 
