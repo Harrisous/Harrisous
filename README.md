@@ -19,25 +19,23 @@
 - **Tools:** VS Code, Git, Jupyter Notebooks
 
 ## Projects
-- **Al Anti Money Laundering for Digital Wallets** (Innovate.DTCC: AI-Powered Hackathon)[Feb 2025] <br>
+### <Feb 2025> **Al Anti Money Laundering for Digital Wallets**, Innovate.DTCC: AI-Powered Hackathon [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
   - Award: Academic Institution Team Award
-  - [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
-  - Description: Sentinel AI is an AI-powered risk scoring system designed for blockchain wallets. It aggregates and analyzes over 1 billion transactions, focusing on stablecoins (USDT/USDC), which dominate the digital asset market with $2.90T in monthly transfer volume. The platform assigns real-time risk scores based on transaction history, smart contract associations, and monitored KYC transactions, effectively closing compliance gaps.<br>![image](https://github.com/user-attachments/assets/1c803bb8-4d66-4d56-be7f-6bdac8f052a2)
-
+  - Description: Sentinel AI is an AI-powered risk scoring system designed for blockchain wallets. It aggregates and analyzes over 1 billion transactions, focusing on stablecoins (USDT/USDC), which dominate the digital asset market with $2.90T in monthly transfer volume. The platform assigns real-time risk scores based on transaction history, smart contract associations, and monitored KYC transactions, effectively closing compliance gaps.<br> <img src="https://github.com/user-attachments/assets/1c803bb8-4d66-4d56-be7f-6bdac8f052a2" alt="image" width="300" />
   - Technology highlights:
     - *Data sourcing:* Google Big Query, SQL...
     - *Machine Learning:* XGBoost, CatBoost, LightGBM, regression models...
     
-- **Flashback** (Duke AI Hackathon)[Nov 2024] <br>
+### <Nov 2024> **Flashback**, Duke AI Hackathon [Demo link](https://youtu.be/LDV44AiYdkY?si=X5-5v4lm0Bzrhj8b)
   - Award: First Rank in AI Tool Track; Top 5 in Overall <br>
-  - [Demo link](https://youtu.be/LDV44AiYdkY?si=X5-5v4lm0Bzrhj8b)
-  - Description: The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk). <br><br>
+  - Description: The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk).
   - Technology highlights:
     - *Hardware:* Raspberry Pi with camera and microphone for information collection (sensors). 
     - *Software:* Full stack website application for processing, storage and hosting; gemini-1.5-pro large vision language model for handling queries requests. In the future, AI agents for executing different tasks and computer vision for face detection is planning to be added.
 
-- **APSAP Automation Application** (Education, Automation)[2023]<br>
-This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research). 
+### <Jan-Aug 2023> **APSAP Automation Application**, the University of Hong Kong 
+  - Category: Education, Automation
+  - This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research). 
 
 ## Contact Me
 - **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
