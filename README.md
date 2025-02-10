@@ -19,10 +19,20 @@
 - **Tools:** VS Code, Git, Jupyter Notebooks
 
 ## Projects
-- **Al Anti Money Laundering for Digital Wallets** (Innovate.DTCC: AI-Powered Hackathon)[Feb 2025] (Academic Institution Team Award)<br>
+- **Al Anti Money Laundering for Digital Wallets** (Innovate.DTCC: AI-Powered Hackathon)[Feb 2025] <br>
+  - Award: Academic Institution Team Award
+  - [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
+  - Description: Sentinel AI is an AI-powered risk scoring system designed for blockchain wallets. It aggregates and analyzes over 1 billion transactions, focusing on stablecoins (USDT/USDC), which dominate the digital asset market with $2.90T in monthly transfer volume. The platform assigns real-time risk scores based on transaction history, smart contract associations, and monitored KYC transactions, effectively closing compliance gaps.<br>![image](https://github.com/user-attachments/assets/1c803bb8-4d66-4d56-be7f-6bdac8f052a2)
 
-- **Flashback** (Duke AI Hackathon)[Nov 2024] (First Rank in AI Tool Track, Top 5 in All Tracks)<br>
-The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk). <br><br> Key technologies use:<br>
+  - Technology highlights:
+    - *Data sourcing:* Google Big Query, SQL...
+    - *Machine Learning:* XGBoost, CatBoost, LightGBM, regression models...
+    
+- **Flashback** (Duke AI Hackathon)[Nov 2024] <br>
+  - Award: First Rank in AI Tool Track; Top 5 in Overall <br>
+  - [Demo link](https://youtu.be/LDV44AiYdkY?si=X5-5v4lm0Bzrhj8b)
+  - Description: The project created during [Duke AI Hackathon 2024](https://duke-ai-hack-2024.devpost.com/). The Flashback system is a personal digital brain that remember everything for human to increase memory storage. Feel free to explore project website on [devpost project page](https://devpost.com/software/flashback-o0jzlk). <br><br>
+  - Technology highlights:
     - *Hardware:* Raspberry Pi with camera and microphone for information collection (sensors). 
     - *Software:* Full stack website application for processing, storage and hosting; gemini-1.5-pro large vision language model for handling queries requests. In the future, AI agents for executing different tasks and computer vision for face detection is planning to be added.
 
