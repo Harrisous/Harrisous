@@ -14,11 +14,11 @@
 
 ## Skills
 - **Programming Languages:** Python (main), HTML, CSS, JavaScript, SQL, Java, C++
-- **Machine Learning:** Scikit-learn, numpy, pandas, PyTorch
+- **Machine Learning/ Deep Learning:** Scikit-learn, numpy, pandas, PyTorch
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** VS Code, Git, Jupyter Notebooks
+- **Tools:** VS Code, Git, Jupyter Notebooks, LangGraph
 
-## Projects
+## General Project Highlights
 ### <Feb 2025> **Al Anti Money Laundering for Digital Wallets**, Innovate.DTCC: AI-Powered Hackathon [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
   - Award: Academic Institution Team Award
   - Description: Sentinel AI is an AI-powered risk scoring system designed for blockchain wallets. It aggregates and analyzes over 1 billion transactions, focusing on stablecoins (USDT/USDC), which dominate the digital asset market with $2.90T in monthly transfer volume. The platform assigns real-time risk scores based on transaction history, smart contract associations, and monitored KYC transactions, effectively closing compliance gaps.<br> <img src="https://github.com/user-attachments/assets/1c803bb8-4d66-4d56-be7f-6bdac8f052a2" alt="image" width="300" />
@@ -37,6 +37,17 @@
   - Category: Education, Automation
   - This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research). 
 
+## Course Project Highligts
+### Duke AIPI590-1 Large Language Model (LLM)
+- [Duke Chatbot - Blue Devil Bot](https://github.com/Harrisous/AIPI590LLM-project-2-DukeChatbot). A chatbot built using LangGraph for agentic search. Toolbox includes: API calls, Web Scrapping, and Tavily search API.
+
+### Duke AIPI590-10 AI in Physical World
+- [Group Project - AIPet (Pido)](https://github.com/Harrisous/AIPI590AIPhysicialWorld-AIPet). AI pet robot that can follow the owner's commands with tracking function, providing comfort and companionship to the user.
+- [Driving behavior detector](https://github.com/Harrisous/AIPI590PhysicalMidterm). An individual project on raspberrypi 4B with traditional ML model to detect user's driving behavior.
+
+### Duke AIPI540 Deep Learning
+- [Movie recommendation system](https://github.com/Harrisous/Duke_25Sprint_AIPI540_Module3_Recommendation-Systems)
+  
 ## Contact Me
 - **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
 - **LinkedIn:** [www.linkedin.com/in/haochen-harry-li](www.linkedin.com/in/haochen-harry-li)
