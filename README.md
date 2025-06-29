@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Currently a graduate student at **Duke University**, pursuing a Master of Engineering in **Artificial Intelligence and Production Innovation (AIPI)**.
 
-- 🔭 My interests include **machine learning, deep learning, and quantitative investment**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
+- 🔭 My interests include **machine learning, deep learning, AI agents, edge AI and quantitative investment**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
 
 ## Education
 - **Duke University** [Aug 2024 - Present] <br>
