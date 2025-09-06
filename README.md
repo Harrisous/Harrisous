@@ -2,8 +2,7 @@
 
 ## About Me
 - 🎓 Currently a graduate student at **Duke University**, pursuing a Master of Engineering in **Artificial Intelligence and Production Innovation (AIPI)**.
-
-- 🔭 My interests include **machine learning, deep learning, AI agents, edge AI and quantitative investment**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
+- 🔭 My interests include **machine learning, deep learning, AI agents, Agent Memory, and edge AI**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
 
 ## Education
 - **Duke University** [Aug 2024 - Present] <br>
@@ -13,10 +12,14 @@
   Bachelor of Science in Actuarial Science & Computer Science [link](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-actuarial-science)
 
 ## Skills
-- **Programming Languages:** Python (main), HTML, CSS, JavaScript, SQL, Java, C++
-- **Machine Learning/ Deep Learning:** Scikit-learn, numpy, pandas, PyTorch
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** VS Code, Git, Jupyter Notebooks, LangGraph
+- **Programming Languages:** Python (main), HTML, CSS, JavaScript, SQL, Java, C++...
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, WebScraping(bs4)...
+- **Machine Learning/Deep Learning:** PyTorch, Scikit-learn, numpy, pandas...
+- **Computer Vision(CV):** OpenCV, Object Detection, Object Tracking, Object Segmentation, Bar code, QR code, ArUco Marker
+- **Large Language Model(LLM):** LangGraph, Ollama, HuggingFace, n8n, RAG, Pinecone, Unsloth, Parameter-Efficient Fine-Tuning (PEFT) including LoRA (Low-Rank Adaptation), Text-To-Speech(TTS), Speech-To-Text(STT)...
+- **Cloud Deployment:** Docker, tumx, AWS, Streamlit...
+- **Hardware:** RaspberryPi Development, Arduino Development, Edge AI, BreadBoard, Sensors, Motor Programming, Servo Programming...
+- Others: LINUX, API, SSH, Git...
 
 ## General Project Highlights
 ### <Feb 2025> **Al Anti Money Laundering for Digital Wallets**, Innovate.DTCC: AI-Powered Hackathon [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
@@ -39,14 +42,21 @@
 
 ## Course Project Highligts
 ### Duke AIPI590-1 Large Language Model (LLM)
-- [Duke Chatbot - Blue Devil Bot](https://github.com/Harrisous/AIPI590LLM-project-2-DukeChatbot). A chatbot built using LangGraph for agentic search. Toolbox includes: API calls, Web Scrapping, and Tavily search API.
+- [Duke Chatbot - Blue Devil Bot](https://github.com/Harrisous/AIPI590LLM-project-2-DukeChatbot).   
+A chatbot for Duke related information retrieval, built using LangGraph framework for agentic search. Toolbox includes: API calls for exisitng APIs, Web Scrapping, and Tavily search for general search. WebScraping(bs4), LangGraph, Agentic Search, API are the key technologies used in this project.
+- [LLM Text-To-SQLs Fintuning](https://github.com/Duke-AIPI-LLM-Course/project-1-maiga).   
+A large language model (LLM) fine-tuning task using the Bird database, aimed at enhancing LLM's capabilities in automatic text-to-SQL generation. We achieved 50% accuracy improvement on simple Text-To-SQL generation tasks at the expense of the capability to deal with challenging tasks. Benchmark source: [BIRD-SQL: A BIg Bench for Large-Scale Relational Database Grounded Text-to-SQLs](https://www.benchflow.ai/benchmarks/benchflow/Bird). Unsloth, Parameter-Efficient Fine-Tuning (PEFT) including LoRA (Low-Rank Adaptation) were used in the project.
 
 ### Duke AIPI590-10 AI in Physical World
-- [Group Project - AIPet (Pido)](https://github.com/Harrisous/AIPI590AIPhysicialWorld-AIPet). AI pet robot that can follow the owner's commands with tracking function, providing comfort and companionship to the user.
-- [Driving behavior detector](https://github.com/Harrisous/AIPI590PhysicalMidterm). An individual project on raspberrypi 4B with traditional ML model to detect user's driving behavior.
+- [Group Project - AIPet (Pido)](https://github.com/Harrisous/AIPI590AIPhysicialWorld-AIPet).   
+Our team built an AI pet robot that can follow the owner's commands with tracking function, providing comfort and companionship to the user. The pet is able to move or follow the user, understand instruction bark, show emotion on LCD screen and wag tail. The whole system runs on a RaspberryPi 4B powered by a powerbank and the action are done by motors (powered by another set of batteries) and servo. [Presentation url](https://gamma.app/docs/AIPI590-AI-in-Physical-World-Final-Project-s5tkqa21zyp9gwf?mode=doc). Key technologies used: sensor integration, GPIO control, speech recognition, computer vision, motor and servo control.
+- [Driving behavior detector](https://github.com/Harrisous/AIPI590PhysicalMidterm).   
+An individual project on raspberrypi 4B with traditional ML model to detect user's driving behavior via acceleration and gyroscope reading and predict the driver's behavior from a trained model. [Presenttaion URL](https://gamma.app/docs/DriveGuard-Enhancing-Road-Safety-with-AI-bifr11u9z5t2xvz?mode=doc)
 
 ### Duke AIPI540 Deep Learning
-- [Movie recommendation system](https://github.com/Harrisous/Duke_25Sprint_AIPI540_Module3_Recommendation-Systems)
+- [Movie Recommendation System](https://github.com/Harrisous/Duke_25Sprint_AIPI540_Module3_Recommendation-Systems) This project implements an advanced hybrid recommendation system that combines collaborative filtering, content-based filtering, and deep learning techniques to provide personalized movie recommendations to users. The system leverages both user behavior data and descriptive content to create a robust recommendation engine that addresses cold-start problems and provides explainable recommendations.
+- [Stock Market Signal Collection](https://github.com/Harrisous/AIPI540_Final_Project) This is a project aiming to predict stock market using environment embedding and transformer architecture. Autoencoder is used to encode market environment, and merged together with time sequence embedding data to train the transformer with MoE.
+- [Sentiment Analysis](https://github.com/Harrisous/AIPI540A2) A project containing different sentiment analysis methods.
   
 ## Contact Me
 - **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
