@@ -21,7 +21,11 @@
 - **Hardware:** RaspberryPi Development, Arduino Development, Edge AI, BreadBoard, Sensors, Motor Programming, Servo Programming...
 - Others: LINUX, API, SSH, Git...
 
-## General Project Highlights
+## Currently Working On
+- Next generation cross-platform personalized AI agent. Sub project: AI agent on VR Glasses.
+- Anti Money Laundry machine learning detection extended from 2025 DTCC AI Hackathon. 
+
+## History Project Highlights
 ### <Feb 2025> **Al Anti Money Laundering for Digital Wallets**, Innovate.DTCC: AI-Powered Hackathon [Demo Link](https://youtu.be/Uo4LdFYi6uw?si=PfsPjDyuksmyTBKT)
   - Award: Academic Institution Team Award
   - Description: Sentinel AI is an AI-powered risk scoring system designed for blockchain wallets. It aggregates and analyzes over 1 billion transactions, focusing on stablecoins (USDT/USDC), which dominate the digital asset market with $2.90T in monthly transfer volume. The platform assigns real-time risk scores based on transaction history, smart contract associations, and monitored KYC transactions, effectively closing compliance gaps.<br> <img src="https://github.com/user-attachments/assets/1c803bb8-4d66-4d56-be7f-6bdac8f052a2" alt="image" width="300" />
