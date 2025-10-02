@@ -63,7 +63,7 @@ An individual project on raspberrypi 4B with traditional ML model to detect user
 - [Sentiment Analysis](https://github.com/Harrisous/AIPI540A2) A project containing different sentiment analysis methods.  
   
 ## Contact Me
-- **Email:** [hl535@duke.edu](mailto:hl535@duke.edu)
+- **Email:** [harryli12321@gmail.com](mailto:harryli12321@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/haochen-harry-li](www.linkedin.com/in/haochen-harry-li)
 - **GitHub:** [https://github.com/Harrisous](https://github.com/Harrisous)
 
