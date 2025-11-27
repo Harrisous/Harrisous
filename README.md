@@ -45,6 +45,10 @@
   - This project was a sub-project of HKU [𝐀𝐫𝐚𝐫𝐚𝐭 𝐏𝐥𝐚𝐢𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 𝐀𝐫𝐜𝐡𝐚𝐞𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭](https://www.instagram.com/apsap.armenia/), aiming to streamline and automate the data collection and processing during archeological activities. Detailed information could be found in [APSAP repo](https://github.com/LordUky/APSAP-undergraduate-research). 
 
 ## Course Project Highligts
+### Duke AIPI590-01 Explainable AI (XAI)
+- [Dual-Stream Emotion XAI](https://github.com/Harrisous/XAI-Final-Project)
+Dual-Stream Emotion XAI (Harrisous/XAI-Final-Project) is an interactive Streamlit XAI app that uses Wav2Vec2-based acoustic emotion recognition, RoBERTa-based semantic sentiment/emotion analysis, and Whisper ASR to compare how you sound (prosody, pitch, speed, energy) versus what you say (textual meaning) in side-by-side 3D PCA latent spaces built from deep embeddings and reference datasets (renumics/emodb and dair-ai/emotion), highlighting clusters, nearest neighbors, and cross-modal conflicts such as sarcasm for explainable, reproducible emotion analysis with Hugging Face, Plotly, scikit-learn, and joblib.​ [Interactive Webpage](https://dual-stream-emotional-xai.streamlit.app/)
+
 ### Duke AIPI590-1 Large Language Model (LLM)
 - [Duke Chatbot - Blue Devil Bot](https://github.com/Harrisous/AIPI590LLM-project-2-DukeChatbot).   
 A chatbot for Duke related information retrieval, built using LangGraph framework for agentic search. Toolbox includes: API calls for exisitng APIs, Web Scrapping, and Tavily search for general search. WebScraping(bs4), LangGraph, Agentic Search, API are the key technologies used in this project.
