@@ -1,11 +1,11 @@
-# Hi there, I'm Haochen Li, Harry 👋
+# Haochen Li, Harry
 
 ## About Me
-- 🎓 Currently a graduate student at **Duke University**, pursuing a Master of Engineering in **Artificial Intelligence and Production Innovation (AIPI)**.
-- 🔭 My interests include **machine learning, deep learning, AI agents, Agent Memory, and edge AI**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
+- Graduated from **Duke University**, completed Master of Engineering in **Artificial Intelligence and Production Innovation (AIPI)**. Looking for AI Engineer related roles.
+- My interests include **LLM, agent system, RAG, machine learning, and edge AI**. I am passionate about leveraging AI to solve real-world complicated problems and am always eager to learn and explore new technologies.
 
 ## Education
-- **Duke University** [Aug 2024 - Present] <br>
+- **Duke University** [Aug 2024 - Dec 2025] <br>
   Master of Engineering in Artificial Intelligence and Product Innovation [link](https://masters.pratt.duke.edu/ai/degree/)
  
 - **The University of Hong Kong** [Sep 2019 - Jul 2024] <br>
